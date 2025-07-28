@@ -32,9 +32,9 @@
 
 ---
 
-### 🔄 Daily Activity
+### 📊 Yearly Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal-Singh&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal-Singh&bg_color=FFFFFF&color=243B4A&line=243B4A&point=243B4A&area=true&hide_border=true)
 
 ---
 
